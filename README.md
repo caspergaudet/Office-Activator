@@ -37,4 +37,4 @@ Offline Access: Even without an internet connection, users can work on their doc
 Integration with Other Microsoft Services: Office 2024 works seamlessly with other Microsoft services like Teams, SharePoint, and Azure, making it a complete ecosystem for collaboration, communication, and productivity.
 
 
-1[](https://github.com/caspergaudet/Office-Activator/blob/main/icon.png)
+![](https://github.com/caspergaudet/Office-Activator/blob/main/icon.png)
